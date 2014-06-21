@@ -12,4 +12,4 @@ How to Set up server-side
 - Change the ServerURL in Globals.cs
 - Build the solution
 - Make a patch list with the lister tool
-- Upload your files to your server
+- Upload the required files to your server
